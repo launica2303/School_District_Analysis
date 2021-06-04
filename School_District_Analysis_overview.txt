@@ -7,7 +7,7 @@ After the removal of the ninth-grade class of Thomas High School, there were a f
 How is the district summary affected? 
 The overall passing percentage was changed by 1% dropping from 65.1% to 64.1%.
 ![School_District_Analysis\Images_PyCity](original_district_summary.png)
-![School_District_Analysis_Images_PyCity](district_summary.png)
+![](Images_PyCity/district_summary.png)
 
 How is the school summary affected?
 Average math score dropped .1%, passing math percentage went down 1%, passing reading percentage .3%, and overall passing percentage 90.9% to 90.6%, for Thomas High School.
