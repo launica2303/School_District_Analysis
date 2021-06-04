@@ -8,7 +8,7 @@ How is the district summary affected?
 The overall passing percentage was changed by 1% dropping from 65.1% to 64.1%.
 ![VBA_Challenge_Resources](VBA_Challenge_2017.png)
 ![VBA_Challenge_Resources](VBA_Challenge_2017.png)
-![Images_PyCity](original-district_summary.png)
+![Images_PyCity](original_district_summary.png)
 
 ![School_District_Analysis\Images_PyCity].(original_district_summary.png)
 
