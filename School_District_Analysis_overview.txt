@@ -11,6 +11,7 @@ The overall passing percentage was changed by 1% dropping from 65.1% to 64.1%.
 ![_](Images_PyCity/district_summary.png)
 ![School_District_Analysis/Images_PyCity](original_district_summary.png)
 How is the school summary affected?
+
 Average math score dropped .1%, passing math percentage went down 1%, passing reading percentage .3%, and overall passing percentage 90.9% to 90.6%, for Thomas High School.
 ![School_District_Analysis_Images_PyCity](origingal_school_summary.png)
 ![School_District_Analysis_Images_PyCity](school_summary.png)
@@ -25,10 +26,12 @@ The schools spending and size did not change any with the changes in data scores
 ![School_District_Analysis_Images_PyCity](original_school_spending.png)
 ![School_District_Analysis_Images_PyCity](school_spending.png)
 ![School_District_Analysis_Images_PyCity](school_size.png)
+
 Scores by school type
 Scores by school type remained the same for the District Schools. The overall passing percentage for Charter Schools was a loss going from 90% to 54%. Causing a 36% decrease.
 ![School_District_Analysis_Images_PyCity](original_type_summary.png)
 ![School_District_Analysis_Images_PyCity](type_summary.png)
+
 Summary:( statement summarizing four changes to the school district analysis after reading and math scores have been replaced)
 Without the ninth-grade scores for Thomas High School the data in the analysis will not be the most accurate, it should still give a clear understanding of the performance of the schools in the district. Some of the biggest changes were in the overall percentages for District vs Charter Schools. The Charter Schools percentage went down 36% from the original analysis.
 
