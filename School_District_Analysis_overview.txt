@@ -6,7 +6,7 @@ After the removal of the ninth-grade class of Thomas High School, there were a f
 
 How is the district summary affected? 
 The overall passing percentage was changed by 1% dropping from 65.1% to 64.1%.
-![School_District_Analysis_Images_PyCity](original_district_summary.png)
+![School_District_Analysis](original_district_summary.png)
 ![School_District_Analysis_Images_PyCity](district_summary.png)
 
 How is the school summary affected?
