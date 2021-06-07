@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview:
 The original data was used to analyze student funding and standardize test scores.  Showcasing trends in school performance to help in making decisions on funding and other priorities. With the original analysis evidence of academic dishonesty was found in the students_complete.csv file for Thomas High Schools ninth graders math and reading grades. For this reason, this analysis was done to help determine what the results will be without the dishonest data included.
 
@@ -42,3 +43,49 @@ Without the ninth-grade scores for Thomas High School the data in the analysis w
 
 
 
+=======
+Overview:
+The original data was used to analyze student funding and standardize test scores.  Showcasing trends in school performance to help in making decisions on funding and other priorities. With the original analysis evidence of academic dishonesty was found in the students_complete.csv file for Thomas High Schools ninth graders math and reading grades. For this reason, this analysis was done to help determine what the results will be without the dishonest data included.
+
+Results of data change:
+After the removal of the ninth-grade class of Thomas High School, there were a few changes in the data results. Although most of the data remained the same in most of the categories, there were still changes in all categories. As you will see in the examples given below most all changes were in the overall percentage categories.
+
+How is the district summary affected? 
+The overall passing percentage was changed by 1% dropping from 65.1% to 64.1%.
+![original_district_summary](https://user-images.githubusercontent.com/83199109/121088943-11b04880-c7ac-11eb-9b61-ee10a6e6f477.png)
+![district_summary](https://user-images.githubusercontent.com/83199109/121089960-7f10a900-c7ad-11eb-84e2-d62983ec7c34.png)
+
+How is the school summary affected?
+Average math score dropped .1%, passing math percentage went down 1%, passing reading percentage .3%, and overall passing percentage 90.9% to 90.6%, for Thomas High School.
+![original_school_summary](https://user-images.githubusercontent.com/83199109/121090347-137b0b80-c7ae-11eb-92fa-a308c3eefbec.png)
+![school_summary](https://user-images.githubusercontent.com/83199109/121090357-17a72900-c7ae-11eb-9add-df989d53654e.png)
+
+How does replacing the ninth-grade scores affect the following:
+Math and reading scores by grade
+![scores_by_grade](https://user-images.githubusercontent.com/83199109/121090804-b59af380-c7ae-11eb-86fa-866d8ee37f67.png)
+
+When recalculating the data by grades there was no actual change for all grades except for Thomas High Schools ninth grade. The original grades for Thomas High School ninth grade reading and math scores were replaced with nan. This is to reflect the fact that actual numerical data is not determined for the Thomas High School ninth grade at this time.
+![grades_after_replacing_ninth_grade_changes](https://user-images.githubusercontent.com/83199109/121090771-a9af3180-c7ae-11eb-82be-4b5d42d88d36.png)
+![original_top_five_schools](https://user-images.githubusercontent.com/83199109/121090778-addb4f00-c7ae-11eb-820b-b09d887b1378.png)
+Scores by school spending and size
+The schools spending and size did not change any with the changes in data scores.
+![original_school_spending](https://user-images.githubusercontent.com/83199109/121090712-9734f800-c7ae-11eb-9ade-13a55b9e8522.png)
+![school_spending](https://user-images.githubusercontent.com/83199109/121090720-99975200-c7ae-11eb-8609-3c25c613fa0f.png)
+![school_size](https://user-images.githubusercontent.com/83199109/121090786-b03da900-c7ae-11eb-9bb1-f36ac9734d31.png)
+
+Scores by school type
+Scores by school type remained the same for the District Schools. The overall passing percentage for Charter Schools was a loss going from 90% to 54%. Causing a 36% decrease.
+![original_type_summary](https://user-images.githubusercontent.com/83199109/121090603-740a4880-c7ae-11eb-98bc-22d0271a6955.png)
+![type_summary](https://user-images.githubusercontent.com/83199109/121090609-75d40c00-c7ae-11eb-94a4-50cebe4a8ec4.png)
+
+Summary:( statement summarizing four changes to the school district analysis after reading and math scores have been replaced)
+Without the ninth-grade scores for Thomas High School the data in the analysis will not be the most accurate, it should still give a clear understanding of the performance of the schools in the district. Some of the biggest changes were in the overall percentages for District vs Charter Schools. The Charter Schools percentage went down 36% from the original analysis.
+
+
+![grades_after_replacing_ninth_grade_changes](https://user-images.githubusercontent.com/83199109/121090771-a9af3180-c7ae-11eb-82be-4b5d42d88d36.png)
+![original_top_five_schools](https://user-images.githubusercontent.com/83199109/121090778-addb4f00-c7ae-11eb-820b-b09d887b1378.png)
+
+
+
+
+>>>>>>> ae43e631b6f60c8444a02432edf686a54ed30d0a
